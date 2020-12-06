@@ -1,6 +1,2 @@
-<!doctype html>
-<html lang="en">
- <body>
+<text>asdasdasd</text>
     <script src="newn2020.js" type="text/JavaScript"></script>
- </body>
-</html>
